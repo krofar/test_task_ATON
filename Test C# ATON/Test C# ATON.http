@@ -1,0 +1,6 @@
+@Test_C__ATON_HostAddress = http://localhost:5129
+
+GET {{Test_C__ATON_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
